@@ -1,4 +1,4 @@
-# Pieni peli viidessä minuutissä (Pelataan poikani kanssa)
+# Pieni peli viidessä minuutissa(Pelataan poikani kanssa)
 
 # Getting Started with Create React App
 
